@@ -23,7 +23,7 @@ npm start
 
 ## Links
 
-- Live Site URL: [live site URL here]()
+- Live Site URL: [live site URL here](https://splitwithfriend.netlify.app/)
 
 ## Author
 
