@@ -1,4 +1,4 @@
-# Travel packing list - build with React
+# Split bill - build with React
 
 This is a exercise to build split bill application with React, helps users calculate and split expenses when going out with friends. Users can easily add friends to the list, and the simple interface makes it very user-friendly.
 
